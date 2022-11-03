@@ -1,0 +1,17 @@
+.parallex{
+    background: url('../../Assests/parallex.jpg') center no-repeat;
+    background-size: cover;
+   
+}
+.parallex h2{
+    font-size: 40px;
+    width: 60%;
+}
+@media (max-width:540px){
+    .parallex h2 {
+        width: 90%;
+    }
+    .parallex p{
+        width: 85% !important;
+    }
+}

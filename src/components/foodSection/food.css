@@ -1,0 +1,14 @@
+.foods h1{
+    width:fit-content;
+}
+.foods >div > p{
+    padding-bottom: 40px;
+}
+.foods span{
+    font-weight: bold;
+    font-size: 25px;
+}
+.foods hr{
+    width: 110%;
+    transform: translateX(-5%);
+}

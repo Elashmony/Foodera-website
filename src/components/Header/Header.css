@@ -1,0 +1,13 @@
+.header{
+    background: url("../../Assests/intro.jpg") center no-repeat;
+    background-size: cover;
+    min-height: 84vh;
+}
+.header h1{
+    font-size: 48px;
+    line-height: 50px;
+}
+p{
+    font-size: 17px;
+}
+

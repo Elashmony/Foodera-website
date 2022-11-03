@@ -1,0 +1,32 @@
+footer{
+    background-color: #a82c48;
+    padding: 60px 0;
+}
+footer *{
+    text-align: center;
+    color: #fff;
+    margin: 10px 7.5px; 
+    font-size: 16px;
+}
+footer .links a{
+    margin: 0 15px;
+    font-size: 20px;
+}
+footer .links a:hover{
+    text-decoration: underline;
+    color: #fff;
+    opacity: .5;
+}
+footer svg{
+    font-size: 25px;
+    transition: .3s;
+}
+footer svg:hover{
+    transform: scale(1.15);
+}
+
+@media (max-width:375px){
+    footer .links a {
+        font-size: 16px;
+    }
+}

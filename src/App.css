@@ -1,0 +1,47 @@
+h1{
+    font-size: 40px;
+}
+*{
+    color:#a82c48;
+}
+a{
+    text-decoration: none;
+    color:#a82c48;
+}
+.pt-75{
+    padding-top: 75px;
+}
+.py-75{
+    padding: 75px 0;
+}
+.btn {
+    background-color: #a82c48;
+    color: white;
+    font-weight: bold;
+    padding: 10px 30px;
+    transition: .2s ease;
+    box-shadow: 0 0 7px 0 #aaa;
+}
+.btn:hover {
+    outline: 3px solid #a82c48;
+}
+.secondary-btn{
+    background-color: transparent;
+    color: #a82c48;
+}
+.primary-btn * {
+    color: white;
+    font-size: 20px;
+}
+.primary-btn:hover * {
+    color: #a82c48;
+}
+
+@media (max-width:540px){
+    h1{
+        font-size: 30px;
+    }
+    .btn{
+        font-size:10px;
+    }
+}

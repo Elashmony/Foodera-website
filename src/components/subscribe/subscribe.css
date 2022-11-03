@@ -1,0 +1,28 @@
+.subscribe *:not(input){
+    text-align: center;
+}
+.subscribe h1{
+    width: 65%;
+    margin: auto;
+}
+.subscribe form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subscribe input{
+    border: 3px solid #f7e2e6;
+    font-weight: bold;
+    padding:8px 20px;
+    width:60%;
+    margin-right: 10px;
+}
+.subscribe input:focus{
+    outline: none;
+}
+
+@media (max-width:540px){
+    .subscribe h1{
+        width: 90%;
+    }
+}

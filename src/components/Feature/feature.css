@@ -1,0 +1,7 @@
+
+@media (min-width:541px){
+    .feature>div>div ,
+    .feature2>div>div {
+        width: 48%;
+    }
+}

@@ -1,0 +1,11 @@
+.info{
+    background-color: #a82c48;
+}
+.info > div > div >div{
+    width: 25%;
+    text-align: center;
+}
+.info > div > div > div >*,
+.info > div > div > div >*>*{
+    color: white;
+}

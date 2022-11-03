@@ -1,0 +1,16 @@
+.navsec{
+    background-color: #fff;
+    box-shadow: 0 0 7px 0 #aaa;
+}
+.navbar-toggler{
+    border: none;
+}
+.navbar-toggler span{
+    width: 40px;
+    height: 40px;
+}
+@media (max-width:999px) and ( min-width:768px){
+    .navsec .btn{
+        display: none;
+    }
+}

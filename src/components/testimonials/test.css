@@ -1,0 +1,28 @@
+.test{
+    background-color: #a82c48;
+}
+.test h1{
+    color: #fff;
+    width :fit-content;
+    margin: auto;
+    padding-bottom: 60px;
+}
+.slider{
+    background-color: #fff;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+}
+.carousel-indicators{
+    bottom: -60px;
+}
+.test img{
+    border-radius: 50%;
+    width: 70px;
+    margin:30px  auto 10px auto;
+}
+@media (max-width:540px){
+    .slider p{
+        width:95% !important;
+    }
+}
