@@ -1,0 +1,98 @@
+{
+    "info":[
+        {
+            "id":1,
+            "value":1876,
+            "title":"SAVINGS"
+        },
+        {
+            "id":2,
+            "value":7110,
+            "title":"PHOTOES"
+        },
+        {
+            "id":3,
+            "value":5786,
+            "title":"ROCKETS"
+        },
+        {
+            "id":4,
+            "value":1440,
+            "title":"GLOBES"
+        }
+    ],
+    "foods":[
+        {
+            "id":1,
+            "img":"Assests/food.1.jpg",
+            "title":"Rainbow Sandwich",
+            "text":"Time: 15 - 20 Minutes | Serves: 1",
+            "price":"$10.50",
+            "discount":"$11.70"
+        },
+        {
+            "id":2,
+            "img":"/food.2.jpg",
+            "title":"Vegetarian Burger",
+            "text":"Time: 30 - 45 Minutes | Serves: 1",
+            "price":"$9.20",
+            "discount":"$10.50"
+        },
+        {
+            "id":3,
+            "img":"Assets/food.2.jpg",
+            "title":"Raspberry Toast",
+            "text":"Time: 10 - 15 Minutes | Serves: 1",
+            "price":"$12.50",
+            "discount":"$13.20"
+        }
+    ],
+    "testimonials":[
+        {
+            "id":1,
+            "img":"Assets/team.1.jpg",
+            "text":"'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.'",
+            "name":"Simab Dave - Web Designer"
+        },
+        {
+            "id":2,
+            "img":"Assets/team-2.jpg",
+            "text":"'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.'",
+            "name":"Johnthan Doe - UX Designer"
+        },
+        {
+            "id":3,
+            "img":"Assets/team-3.jpg",
+            "text":"'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.'",
+            "name":"Maccy Doe - Front End"
+        },
+        {
+            "id":4,
+            "img":"Assets/team-4.jpg",
+            "text":"'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live.'",
+            "name":"Maccy Doe - Front End"
+        }
+    ],
+    "question":[
+        {
+            "id":1,
+            "question":"~ Is Foodera Bread really baked fresh each day?",
+            "answer":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language."
+        },
+        {
+            "id":2,
+            "question":"~ Do you bake breads containing animal fats or products?",
+            "answer":"The improvement of fatty acids (FA) profile of bread made with bovine fat (BF) and a mixture of flours completely replacing fat with canola oil (CO), or olive oil (OO) was evaluated. "
+        },
+        {
+            "id":3,
+            "question":"~ Can I order your products online?",
+            "answer":"Technological and sensory characteristics and overall acceptability of the fortified breads were also studied. The results showed a decrease in saturated FA or olive oil (OO) was evaluated."
+        },
+        {
+            "id":4,
+            "question":"~ When are you opening a shop near me?",
+            "answer":" OO caused a rise of n9 and n6 FA, mainly in bread made with WF + FF + wheat bran (WB). The breads with WF + FF + SF + CO and WF + FF + WB + OO presented higher specific volume, softer crumb and colour similar to those from base formulations."
+        }
+    ]
+}
