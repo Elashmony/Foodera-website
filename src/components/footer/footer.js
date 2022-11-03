@@ -9,15 +9,15 @@ function Footer()
         <footer>
             <div>
                 <div className='links'>
-                    <a href="#">Register</a>
-                    <a href="#">Forum</a>
-                    <a href="#"> Affiliate</a>
-                    <a href="#">FAQ</a>
+                    <a href="#faq">Register</a>
+                    <a href="#faq">Forum</a>
+                    <a href="#faq"> Affiliate</a>
+                    <a href="#faq">FAQ</a>
                 </div>
                 <div className='icons'>
                     <a href='www.facebook.com'> <FaFacebookF/></a>
                     <a href='www.twitter.com'> <BsTwitter /></a>
-                   <a href='www.youtube.com'> <FaYoutube /></a>
+                    <a href='www.youtube.com'> <FaYoutube /></a>
                     <a href='www.linkedin.com'> <FaLinkedinIn /></a>
                     <a href='www.instagram.com'> <BsInstagram/></a >
                 </div>

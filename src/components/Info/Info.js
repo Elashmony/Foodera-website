@@ -17,7 +17,7 @@ function Info(props)
                 >
                     {({ countUpRef,start })=>(
                         <VisibilitySeneor onChange={start} delayedCall>
-                            <h2 ref={countUpRef} />
+                            <h2 ref={countUpRef} ></h2>
                         </VisibilitySeneor>
                     )}
                 </CountUp>
